@@ -86,3 +86,11 @@ MIT License – feel free to use, fork, and improve the tool with attribution.
 
 A Python-based security scanner for Windows that detects...
 
+your support is highly appreciated...  :)
+
+## 🙌 Support
+
+If you like this project and want to support development, you can donate via PayPal:
+
+[Donate via PayPal](https://www.paypal.me/omraaziz)
+
